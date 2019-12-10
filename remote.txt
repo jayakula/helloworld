@@ -1,1 +1,2 @@
 push code to remote repo
+jenkins auto trigger
